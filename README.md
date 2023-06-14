@@ -1,1 +1,1 @@
-https://idisima.github.io/Amazon-clone/amazon.html
+#https://idisima.github.io/Amazon-clone/amazon.html
