@@ -1,1 +1,1 @@
-Responsive clone amazon shopping cart
+https://idisima.github.io/Amazon-clone/amazon.html
